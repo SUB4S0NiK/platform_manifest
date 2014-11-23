@@ -517,6 +517,8 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
+  <!-- Screw'd -->
+  <project path="platform_manifest" name="MrApocalypse/platform_manifest" remote="screw" revision="lp" />
   <project path="vendor/screwd" name="MrApocalypse/vendor_screwd" remote="screwd" revision="lp" >
     <copyfile src="build.sh" dest="rom-build.sh" />
   </project>
