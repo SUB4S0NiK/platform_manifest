@@ -522,6 +522,7 @@
   <project path="platform_manifest" name="MrApocalypse/platform_manifest" remote="screwd" revision="lp" />
   <project path="vendor/screwd" name="MrApocalypse/vendor_screwd" remote="screwd" revision="lp" >
     <copyfile src="build.sh" dest="rom-build.sh" />
+    <copyfile src="kernel_build.sh" dest="kernel-build.sh" />
   </project>
 
 </manifest>
