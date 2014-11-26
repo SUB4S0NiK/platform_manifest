@@ -497,7 +497,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs" />
   <project path="system/core" name="MrApocalypse/system_core" remote="screwd" revision="lp" />
-  <project path="system/extras" name="platform/system/extras" groups="pdk" />
+  <project path="system/extras" name="SlimRoms/android_system_extras" remote="slim" revision="lp5.0" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
