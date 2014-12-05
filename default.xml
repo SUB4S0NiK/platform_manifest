@@ -524,4 +524,7 @@
     <copyfile src="kernel_build.sh" dest="kernel-build.sh" />
   </project>
 
+  <!-- Slim toolchain gcc and linaro -->
+  <project path="prebuilt" name="SlimRoms/android_prebuilt" remote="slim" revision="lp5.0" />
+
 </manifest>
