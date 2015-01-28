@@ -322,7 +322,7 @@
   <project path="frameworks/opt/net/ethernet" name="platform/frameworks/opt/net/ethernet" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs" />
-  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" />
+  <project path="frameworks/opt/telephony" name="MrApocalypse/frameworks_opt_telephony" remote="screwd" revision="lp" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" groups="pdk-cw-fs" />
@@ -432,7 +432,7 @@
   <project path="packages/providers/DownloadProvider" name="MrApocalypse/packages_providers_DownloadProvider" remote="screwd" revision="lp" />
   <project path="packages/providers/MediaProvider" name="MrApocalypse/packages_providers_MediaProvider" remote="screwd" revision="lp" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
-  <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" />
+  <project path="packages/providers/TelephonyProvider" name="MrApocalypse/packages_providers_TelephonyProvider" remote="screwd" revision="lp" />
   <project path="packages/providers/ThemesProvider" name="MrApocalypse/packages_providers_ThemesProvider" remote="screwd" revision="lp" />
   <project path="packages/providers/TvProvider" name="platform/packages/providers/TvProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" groups="pdk-cw-fs" />
