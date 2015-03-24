@@ -28,7 +28,7 @@ $ mkdir WORKSPACE
 $ cd WORKSPACE
 
 # Install Repo in the created directory
-$ repo init -u https://github.com/MrApocalypse/platform_manifest -b lp
+$ repo init -u https://github.com/MrApocalypse/platform_manifest -b lp-mr1
 ```
 
 ### Downloading the source tree ###
