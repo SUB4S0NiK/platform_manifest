@@ -23,7 +23,7 @@
   <remote  name="bb"
            fetch="https://bitbucket.org/" />	   
 
-  <default revision="refs/tags/android-5.1.0_r3"
+  <default revision="refs/tags/android-5.1.0_r5"
            remote="aosp"
            sync-j="4" />
 
