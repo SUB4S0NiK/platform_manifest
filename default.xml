@@ -394,6 +394,7 @@
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
+  <project path="packages/apps/OmniSwitch" name="MrApocalypse/packages_apps_OmniSwitch" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="MrApocalypse/packages_apps_PackageInstaller" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" />
