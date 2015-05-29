@@ -328,7 +328,7 @@
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" groups="qcom_wlan" />
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
-  <project path="libcore" name="platform/libcore" groups="pdk" />
+  <project path="libcore" name="MrApocalypse/libcore" remote="screwd" revision="lp-mr1" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
@@ -353,7 +353,7 @@
   <project path="packages/apps/InCallUI" name="MrApocalypse/packages_apps_InCallUI" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/KernelAdiutor" name="MrApocalypse/packages_apps_KernelAdiutor" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
+  <project path="packages/apps/Launcher3" name="MrApocalypse/packages_apps_Launcher3" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/LockClock" name="MrApocalypse/packages_apps_LockClock" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" />
