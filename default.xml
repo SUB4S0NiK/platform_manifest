@@ -38,7 +38,7 @@
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" />
-  <project path="development" name="platform/development" groups="pdk-cw-fs" />
+  <project path="development" name="MrApocalypse/development" remote="screwd" revision="lp-mr1" />
   <project path="device/asus/deb" name="device/asus/deb" groups="device,flo" />
   <project path="device/asus/flo" name="MrApocalypse/device_asus_flo" remote="screwd" revision="lp-mr1" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs" />
