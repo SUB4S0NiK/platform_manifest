@@ -358,7 +358,6 @@
   <project path="packages/apps/InCallUI" name="MrApocalypse/packages_apps_InCallUI" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/KernelAdiutor" name="MrApocalypse/packages_apps_KernelAdiutor" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher3" name="MrApocalypse/packages_apps_Launcher3" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/LockClock" name="MrApocalypse/packages_apps_LockClock" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" />
@@ -374,6 +373,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/Settings" name="MrApocalypse/packages_apps_Settings" remote="screwd" revision="lp-mr1" />
+  <project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" remote="slim" revision="lp5.1" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
