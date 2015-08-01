@@ -402,6 +402,7 @@
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" />
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" />
+  <project path="packages/services/AntiPiracy" name="MrApocalypse/AntiPiracySupport" remote="screwd" revision="lp-mr1" />
   <project path="packages/services/Mms" name="platform/packages/services/Mms" />
   <project path="packages/services/Telecomm" name="MrApocalypse/packages_services_Telecomm" remote="screwd" revision="lp-mr1" />
   <project path="packages/services/Telephony" name="MrApocalypse/packages_services_Telephony" remote="screwd" revision="lp-mr1" />
