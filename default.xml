@@ -299,7 +299,7 @@
   <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" groups="pdk-cw-fs" />
   <project path="frameworks/opt/net/ims" name="MrApocalypse/frameworks_opt_net_ims" remote="screwd" revision="lp-mr1" />
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" groups="pdk-cw-fs" />
-  <project path="frameworks/opt/net/wifi" name="MrApocalypse/frameworks_opt_net_wifi" remote="screwd" revision="lp-mr1" />
+  <project path="frameworks/opt/net/wifi" name="MrApocalypse/frameworks_opt_net_wifi" remote="screwd" revision="lp-mr1-rebase" />
   <project path="frameworks/opt/net/ethernet" name="platform/frameworks/opt/net/ethernet" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs" />
@@ -375,7 +375,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/Settings" name="MrApocalypse/packages_apps_Settings" remote="screwd" revision="lp-mr1" />
-  <project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" remote="slim" revision="lp5.1" />
+  <project path="packages/apps/SlimLauncher" name="MrApocalypse/packages_apps_SlimLauncher" remote="screwd" revision="lp-mr1" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
