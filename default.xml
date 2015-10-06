@@ -479,7 +479,6 @@
 
   <!-- Screw'd -->
   <project path="platform_manifest" name="platform_manifest" remote="screwd" revision="m" />
-  <project path="packages/apps/ScrewdOTA" name="ScrewdOTA" remote="screwd" revision="m" />
   <project path="vendor/screwd" name="vendor_screwd" remote="screwd" revision="m" />
 
 </manifest>
