@@ -351,7 +351,7 @@
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" groups="pdk-fs" />
   <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" groups="pdk-fs" />
   <project path="packages/apps/CarrierConfig" name="platform/packages/apps/CarrierConfig" groups="pdk-fs" />
-  <project path="packages/apps/CellBroadcastReceiver" name="packages_apps_CellBroadcastReceiver" remote="screwd" revision="m" />
+  <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" groups="pdk-fs" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="screwd" revision="m" />
   <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="screwd" revision="m" />
