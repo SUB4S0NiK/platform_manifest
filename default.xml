@@ -432,6 +432,7 @@
   
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-5.2" name="UBERTC/arm-linux-androideabi-5.2" remote="bb" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bb" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2-SM" name="xanaxdroid/arm-eabi-5.2" remote="bb" revision="sabermod" />
   
   <project path="prebuilts/gcc/darwin-x86/host/headers" name="platform/prebuilts/gcc/darwin-x86/host/headers" groups="pdk,darwin" />
   <project path="prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" groups="pdk,darwin" />
