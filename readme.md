@@ -28,7 +28,7 @@ $ mkdir WORKSPACE
 $ cd WORKSPACE
 
 # Install Repo in the created directory
-$ repo init -u https://github.com/MrApocalypse/platform_manifest -b lp-mr1
+$ repo init -u https://github.com/ScrewdAOSP/platform_manifest -b m
 ```
 
 ### Downloading the source tree ###
@@ -53,8 +53,9 @@ the specified device automatically. As the device value, you just feed it with t
 $ cd WORKSPACE
 # ...and run the builder tool.
 $ ./rom-build.sh DEVICE
+# So if you want to build for the Nexus 5, run:
+$ ./rom-build.sh hammerhead
 ```
-
 ## That's all for now... ##
 
 
