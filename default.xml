@@ -46,6 +46,7 @@
   <project path="development" name="development" remote="screwd" revision="m" />
   <project path="device/asus/flo" name="device_asus_flo" remote="screwd" revision="m" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
+  <project path="device/lge/bullhead" name="device_lge_bullhead" remote="screwd" revision="m" />
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="screwd" revision="m" />
   <project path="device/moto/shamu" name="device_moto_shamu" remote="screwd" revision="m" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
@@ -326,6 +327,7 @@
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" groups="qcom,qcom_keymaster" />
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" groups="qcom" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" />
+  <project path="hardware/qcom/msm8994" name="platform/hardware/qcom/msm8994" groups="qcom_msm8994" />
   <project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" groups="qcom_msm8x26" />
   <project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" groups="qcom_msm8x27" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="pdk,qcom_msm8x74" />
