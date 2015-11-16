@@ -46,6 +46,7 @@
   <project path="development" name="development" remote="screwd" revision="m" />
   <project path="device/asus/flo" name="device_asus_flo" remote="screwd" revision="m" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
+  <project path="device/huawei/angler" name="device_huawei_angler" remote="screwd" revision="m" />
   <project path="device/lge/bullhead" name="device_lge_bullhead" remote="screwd" revision="m" />
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="screwd" revision="m" />
   <project path="device/moto/shamu" name="device_moto_shamu" remote="screwd" revision="m" />
