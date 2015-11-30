@@ -21,8 +21,8 @@
   <remote name="cm"
            fetch="https://github.com/CyanogenMod" />
 	   
-  <remote name="temasek"
-           fetch="https://github.com/temasek" />	   
+  <remote name="du"
+           fetch="https://github.com/DirtyUnicorns" />	   
 	   
   <remote  name="bb"
            fetch="https://bitbucket.org/" />	   
@@ -54,6 +54,7 @@
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/android-mock" name="platform/external/android-mock" groups="pdk-cw-fs,pdk-fs" />
+  <project path="external/android-visualizer" name="android_external_android-visualizer" remote="du" revision="m" />
   <project path="external/androidplot" name="platform/external/androidplot" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/ant-glob" name="platform/external/ant-glob" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/antlr" name="platform/external/antlr" groups="pdk-cw-fs,pdk-fs" />
