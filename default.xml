@@ -49,6 +49,7 @@
   <project path="device/huawei/angler" name="device_huawei_angler" remote="screwd" revision="m" />
   <project path="device/lge/bullhead" name="device_lge_bullhead" remote="screwd" revision="m" />
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="screwd" revision="m" />
+  <project path="device/lge/mako" name="device_lge_mako" remote="screwd" revision="m" />
   <project path="device/moto/shamu" name="device_moto_shamu" remote="screwd" revision="m" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs,pdk-fs" />
