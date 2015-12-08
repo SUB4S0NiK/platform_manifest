@@ -365,7 +365,7 @@
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" groups="pdk-fs" />
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="screwd" revision="m" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" groups="pdk-fs" />
-  <project path="packages/apps/Messaging" name="BenzoRom/packages_apps_Messaging" remote="github" revision="marshmallow"  />
+  <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="screwd" revision="m"  />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" groups="apps_nfc,pdk-fs" />
   <project path="packages/apps/OmniSwitch" name="packages_apps_OmniSwitch" remote="screwd" revision="m" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" groups="pdk-fs" />
