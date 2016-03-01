@@ -470,4 +470,7 @@
      <copyfile src="build.sh" dest="rom-build.sh" />
      <copyfile src="kernel_build.sh" dest="kernel-build.sh" />
   </project>
+
+  <!--Dragon TC -->
+  <project groups="pdk,linux" name="dragon-tc/dragontc-3.9" path="prebuilts/clang/linux-x86/host/3.9" remote="bb" revision="master" />
 </manifest>
