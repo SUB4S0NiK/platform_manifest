@@ -470,5 +470,5 @@
   </project>
 
   <!--Dragon TC -->
-  <project groups="pdk,linux" name="dragon-tc/dragontc-3.9" path="prebuilts/clang/linux-x86/host/3.9" remote="bb" revision="master" />
+  <project groups="pdk,linux" name="ExistanceVIP/dragontc-3.9" path="prebuilts/clang/linux-x86/host" remote="bb" revision="master" />
 </manifest>
