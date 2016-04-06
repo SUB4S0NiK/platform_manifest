@@ -472,5 +472,5 @@
   </project>
 
   <!--Dragon TC -->
-  <project path="prebuilts/clang/linux-x86/host/3.9" name="f100cleveland/dragontc-3.9" groups="pdk,linux" remote="bb" revision="master" />
+  <project path="prebuilts/clang/linux-x86/host/3.9" name="f100cleveland/dragontc-3.9" groups="pdk,linux" remote="bb" revision="smitty" />
 </manifest>
