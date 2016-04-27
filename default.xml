@@ -408,6 +408,7 @@
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" groups="pdk-fs" />
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" groups="pdk-fs" />
   <project path="packages/services/Mms" name="platform/packages/services/Mms" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="screwd" revision="m" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="screwd" revision="m" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="screwd" revision="m" />
   <project path="packages/wallpapers/LivePicker" name="packages_wallpapers_LivePicker" remote="screwd" revision="m" />
