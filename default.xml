@@ -13,6 +13,9 @@
 
   <remote name="screwd"
            fetch="https://github.com/ScrewdAOSP" />
+           
+  <remote name="sub"
+           fetch="https://github.com/SUB4S0NiK" />
 
   <remote name="slim"
            fetch="https://github.com/SlimRoms"
@@ -31,7 +34,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="android_build" remote="screwd" revision="m" >
+  <project path="build" name="android_build" remote="sub" revision="m" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
@@ -464,11 +467,11 @@
 
   <!-- Screw'd -->
   <project path="platform_manifest" name="platform_manifest" remote="screwd" revision="m" />
-  <project path="vendor/screwd" name="vendor_screwd" remote="screwd" revision="m" >
+  <project path="vendor/screwd" name="vendor_screwd" remote="sub" revision="m" >
      <copyfile src="build.sh" dest="rom-build.sh" />
      <copyfile src="kernel_build.sh" dest="kernel-build.sh" />
   </project>
 
   <!--Dragon TC -->
-  <project groups="pdk,linux" name="ExistanceVIP/dragontc-3.9" path="prebuilts/clang/linux-x86/host" remote="bb" revision="master" />
+  <project groups="pdk,linux" name="dragontc-3.9" path="prebuilts/clang/linux-x86/host/3.9" remote="sub" revision="master" />
 </manifest>
