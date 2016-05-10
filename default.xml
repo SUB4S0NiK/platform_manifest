@@ -465,7 +465,7 @@
 
   <!-- Screw'd -->
   <project path="platform_manifest" name="platform_manifest" remote="screwd" revision="m" />
-  <project path="vendor/screwd" name="vendor_screwd" remote="screwd" revision="m" >
+  <project path="vendor/screwd" name="vendor_screwd" remote="sub" revision="m" >
      <copyfile src="build.sh" dest="rom-build.sh" />
      <copyfile src="kernel_build.sh" dest="kernel-build.sh" />
   </project>
