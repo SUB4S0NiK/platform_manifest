@@ -6,26 +6,26 @@
            review="https://android-review.googlesource.com/" />
 	   
   <remote name="github"
-           fetch="https://github.com/" />
+           fetch="ssh://github.com/" />
   
   <remote name="MrA"
-           fetch="https://github.com/MrApocalypse" />
+           fetch="ssh://github.com/MrApocalypse" />
 
   <remote name="screwd"
-           fetch="https://github.com/ScrewdAOSP" />
+           fetch="ssh://github.com/ScrewdAOSP" />
 
   <remote name="sub"
-           fetch="https://github.com/SUB4S0NiK" />
+           fetch="ssh://github.com/SUB4S0NiK" />
            
   <remote name="slim"
-           fetch="https://github.com/SlimRoms"
+           fetch="ssh://github.com/SlimRoms"
            review="gerrit.slimroms.net" />
 
   <remote name="cm"
-           fetch="https://github.com/CyanogenMod" />
+           fetch="ssh://github.com/CyanogenMod" />
 	   
   <remote name="du"
-           fetch="https://github.com/DirtyUnicorns" />	   
+           fetch="ssh://github.com/DirtyUnicorns" />	   
 	   
   <remote  name="bb"
            fetch="https://bitbucket.org/" />	   
