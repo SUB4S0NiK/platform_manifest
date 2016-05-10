@@ -14,6 +14,9 @@
   <remote name="screwd"
            fetch="https://github.com/ScrewdAOSP" />
 
+  <remote name="sub"
+           fetch="https://github.com/SUB4S0NiK" />
+           
   <remote name="slim"
            fetch="https://github.com/SlimRoms"
            review="gerrit.slimroms.net" />
@@ -31,7 +34,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="android_build" remote="screwd" revision="m" >
+  <project path="build" name="android_build" remote="sub" revision="m" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
@@ -44,13 +47,8 @@
   <project path="developers/demos" name="platform/developers/demos" />
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="development" name="development" remote="screwd" revision="m" />
-  <project path="device/asus/flo" name="device_asus_flo" remote="screwd" revision="m" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
-  <project path="device/huawei/angler" name="device_huawei_angler" remote="screwd" revision="m" />
-  <project path="device/lge/bullhead" name="device_lge_bullhead" remote="screwd" revision="m" />
-  <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="screwd" revision="m" />
-  <project path="device/lge/mako" name="device_lge_mako" remote="screwd" revision="m" />
-  <project path="device/moto/shamu" name="device_moto_shamu" remote="screwd" revision="m" />
+  <project path="device/motorola/falcon" name="device_motorola_falcon" remote="sub" revision="m" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/android-mock" name="platform/external/android-mock" groups="pdk-cw-fs,pdk-fs" />
@@ -473,5 +471,5 @@
   </project>
 
   <!--Dragon TC -->
-  <project path="prebuilts/clang/linux-x86/host/3.9" name="f100cleveland/dragontc-3.9" groups="pdk,linux" remote="bb" revision="smitty" />
-</manifest>
+ <project groups="pdk,linux" name="dragontc-3.9" path="prebuilts/clang/linux-x86/host/3.9" remote="sub" revision="master" />
+ </manifest>
